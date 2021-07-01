@@ -10,7 +10,6 @@ const Nav = () => {
                 <Link className="navbar-brand" to="/">
                     <FontAwesomeIcon
                         icon={faSeedling}
-                        color={"#56cc9d "}
                         style={{ marginRight: 5 }}
                         size="lg"
                     />
