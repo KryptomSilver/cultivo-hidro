@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cultivo-hidro/static/css/main.ca4c80b3.chunk.css",
+    "main.js": "/cultivo-hidro/static/js/main.71c8ddca.chunk.js",
+    "main.js.map": "/cultivo-hidro/static/js/main.71c8ddca.chunk.js.map",
+    "runtime-main.js": "/cultivo-hidro/static/js/runtime-main.0d3c25d9.js",
+    "runtime-main.js.map": "/cultivo-hidro/static/js/runtime-main.0d3c25d9.js.map",
+    "static/css/2.b1eb5858.chunk.css": "/cultivo-hidro/static/css/2.b1eb5858.chunk.css",
+    "static/js/2.39d4b9ae.chunk.js": "/cultivo-hidro/static/js/2.39d4b9ae.chunk.js",
+    "static/js/2.39d4b9ae.chunk.js.map": "/cultivo-hidro/static/js/2.39d4b9ae.chunk.js.map",
+    "index.html": "/cultivo-hidro/index.html",
+    "static/css/2.b1eb5858.chunk.css.map": "/cultivo-hidro/static/css/2.b1eb5858.chunk.css.map",
+    "static/css/main.ca4c80b3.chunk.css.map": "/cultivo-hidro/static/css/main.ca4c80b3.chunk.css.map",
+    "static/js/2.39d4b9ae.chunk.js.LICENSE.txt": "/cultivo-hidro/static/js/2.39d4b9ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d3c25d9.js",
+    "static/css/2.b1eb5858.chunk.css",
+    "static/js/2.39d4b9ae.chunk.js",
+    "static/css/main.ca4c80b3.chunk.css",
+    "static/js/main.71c8ddca.chunk.js"
+  ]
+}
