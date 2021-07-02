@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cultivo-hidro/static/css/main.ca4c80b3.chunk.css",
-    "main.js": "/cultivo-hidro/static/js/main.fd237ab8.chunk.js",
-    "main.js.map": "/cultivo-hidro/static/js/main.fd237ab8.chunk.js.map",
+    "main.js": "/cultivo-hidro/static/js/main.783cc304.chunk.js",
+    "main.js.map": "/cultivo-hidro/static/js/main.783cc304.chunk.js.map",
     "runtime-main.js": "/cultivo-hidro/static/js/runtime-main.0d3c25d9.js",
     "runtime-main.js.map": "/cultivo-hidro/static/js/runtime-main.0d3c25d9.js.map",
     "static/css/2.b1eb5858.chunk.css": "/cultivo-hidro/static/css/2.b1eb5858.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.b1eb5858.chunk.css",
     "static/js/2.39d4b9ae.chunk.js",
     "static/css/main.ca4c80b3.chunk.css",
-    "static/js/main.fd237ab8.chunk.js"
+    "static/js/main.783cc304.chunk.js"
   ]
 }
